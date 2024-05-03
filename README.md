@@ -6,7 +6,7 @@ This repository contains a Python script designed to categorize bank transaction
 
 ### Contents
 
-- **expensetracker.py**: This Python script is the main component of the project. It contains functions to read the transaction data from a CSV file, categorize transactions, calculate financial summaries, and write the results to a Google Sheets document.
+- **ExpenseTracker.py**: This Python script is the main component of the project. It contains functions to read the transaction data from a CSV file, categorize transactions, calculate financial summaries, and write the results to a Google Sheets document.
 
 ### Dependencies
 
