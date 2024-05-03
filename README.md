@@ -61,15 +61,10 @@ This repository contains a Python script designed to categorize bank transaction
    
 2. **Review Output**: The script will categorize the transactions, update the Google Sheets document, and display total spending, total income, and savings in the terminal.
 
-### Contributions
+### Help
 
-Contributions to this project are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
-
-### License
-
-This project is licensed under the [MIT License](LICENSE).
-
-
+If you need extra help with this code due to confusion, utilize something like chatgp to help you through.
+The pretty visuals in the gspread portion of code came from chatgpt so you can do something similar.
 
 ### Contributions
 
